@@ -113,12 +113,24 @@ h3 {
   margin: 0 35px;
   margin-bottom: 100px;
 }
-h2 span {
-  font-weight: normal;
-  font-size: 16px;
+.counter-area h2 {
+  margin-bottom: 5px;
+  margin-top: 10px;
 }
 .counter-item {
   width: 30%;
   margin-left: 3%;
   text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+/* Footer Area */
+footer {
+  background: black;
+  text-align: center;
+  padding: 20px 10px 50px;
+}
+footer small {
+  color: #fff;
 }
